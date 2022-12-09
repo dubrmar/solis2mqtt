@@ -1,0 +1,11 @@
+device: /dev/ttyUSB0
+inverter:
+    name: EASUN
+    manufacturer: EASUN
+    model: SMG II
+mqtt:
+    url: 127.0.0.1
+    port: 1883
+    use_ssl: false
+    user: root
+    passwd: toor
